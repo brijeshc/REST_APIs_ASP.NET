@@ -1,0 +1,60 @@
+C:\Users\bchandrakar\Documents\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\bin\Debug\net7.0\CourseProject.Business.deps.json
+C:\Users\bchandrakar\Documents\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\bin\Debug\net7.0\CourseProject.Business.dll
+C:\Users\bchandrakar\Documents\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\bin\Debug\net7.0\CourseProject.Business.pdb
+C:\Users\bchandrakar\Documents\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\bin\Debug\net7.0\CourseProject.Common.dll
+C:\Users\bchandrakar\Documents\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\bin\Debug\net7.0\CourseProject.Common.pdb
+C:\Users\bchandrakar\Documents\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.csproj.AssemblyReference.cache
+C:\Users\bchandrakar\Documents\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bchandrakar\Documents\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.AssemblyInfoInputs.cache
+C:\Users\bchandrakar\Documents\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.AssemblyInfo.cs
+C:\Users\bchandrakar\Documents\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.csproj.CoreCompileInputs.cache
+C:\Users\bchandrakar\Documents\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.csproj.CopyComplete
+C:\Users\bchandrakar\Documents\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.dll
+C:\Users\bchandrakar\Documents\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\refint\CourseProject.Business.dll
+C:\Users\bchandrakar\Documents\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.pdb
+C:\Users\bchandrakar\Documents\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\ref\CourseProject.Business.dll
+C:\Users\bchandrakar\OneDrive - Cornerstone OnDemand\Documents\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\bin\Debug\net7.0\CourseProject.Business.deps.json
+C:\Users\bchandrakar\OneDrive - Cornerstone OnDemand\Documents\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\bin\Debug\net7.0\CourseProject.Business.dll
+C:\Users\bchandrakar\OneDrive - Cornerstone OnDemand\Documents\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\bin\Debug\net7.0\CourseProject.Business.pdb
+C:\Users\bchandrakar\OneDrive - Cornerstone OnDemand\Documents\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\bin\Debug\net7.0\CourseProject.Common.dll
+C:\Users\bchandrakar\OneDrive - Cornerstone OnDemand\Documents\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\bin\Debug\net7.0\CourseProject.Common.pdb
+C:\Users\bchandrakar\OneDrive - Cornerstone OnDemand\Documents\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.csproj.AssemblyReference.cache
+C:\Users\bchandrakar\OneDrive - Cornerstone OnDemand\Documents\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bchandrakar\OneDrive - Cornerstone OnDemand\Documents\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.AssemblyInfoInputs.cache
+C:\Users\bchandrakar\OneDrive - Cornerstone OnDemand\Documents\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.AssemblyInfo.cs
+C:\Users\bchandrakar\OneDrive - Cornerstone OnDemand\Documents\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.csproj.CoreCompileInputs.cache
+C:\Users\bchandrakar\OneDrive - Cornerstone OnDemand\Documents\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.csproj.CopyComplete
+C:\Users\bchandrakar\OneDrive - Cornerstone OnDemand\Documents\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.dll
+C:\Users\bchandrakar\OneDrive - Cornerstone OnDemand\Documents\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\refint\CourseProject.Business.dll
+C:\Users\bchandrakar\OneDrive - Cornerstone OnDemand\Documents\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.pdb
+C:\Users\bchandrakar\OneDrive - Cornerstone OnDemand\Documents\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\ref\CourseProject.Business.dll
+C:\Users\brije\OneDrive\Documents\Brijesh_docs\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\bin\Debug\net7.0\CourseProject.Business.deps.json
+C:\Users\brije\OneDrive\Documents\Brijesh_docs\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\bin\Debug\net7.0\CourseProject.Business.dll
+C:\Users\brije\OneDrive\Documents\Brijesh_docs\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\bin\Debug\net7.0\CourseProject.Business.pdb
+C:\Users\brije\OneDrive\Documents\Brijesh_docs\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\bin\Debug\net7.0\CourseProject.Common.dll
+C:\Users\brije\OneDrive\Documents\Brijesh_docs\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\bin\Debug\net7.0\CourseProject.Common.pdb
+C:\Users\brije\OneDrive\Documents\Brijesh_docs\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.csproj.AssemblyReference.cache
+C:\Users\brije\OneDrive\Documents\Brijesh_docs\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brije\OneDrive\Documents\Brijesh_docs\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.AssemblyInfoInputs.cache
+C:\Users\brije\OneDrive\Documents\Brijesh_docs\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.AssemblyInfo.cs
+C:\Users\brije\OneDrive\Documents\Brijesh_docs\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.csproj.CoreCompileInputs.cache
+C:\Users\brije\OneDrive\Documents\Brijesh_docs\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CoursePr.A358A4D8.Up2Date
+C:\Users\brije\OneDrive\Documents\Brijesh_docs\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.dll
+C:\Users\brije\OneDrive\Documents\Brijesh_docs\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\refint\CourseProject.Business.dll
+C:\Users\brije\OneDrive\Documents\Brijesh_docs\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.pdb
+C:\Users\brije\OneDrive\Documents\Brijesh_docs\Brijesh\Courses\Udemy_ASP.NET_REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\ref\CourseProject.Business.dll
+C:\Code\Udemy_ASP.NET REST\CourseProject\src\CourseProject.Business\bin\Debug\net7.0\CourseProject.Business.deps.json
+C:\Code\Udemy_ASP.NET REST\CourseProject\src\CourseProject.Business\bin\Debug\net7.0\CourseProject.Business.dll
+C:\Code\Udemy_ASP.NET REST\CourseProject\src\CourseProject.Business\bin\Debug\net7.0\CourseProject.Business.pdb
+C:\Code\Udemy_ASP.NET REST\CourseProject\src\CourseProject.Business\bin\Debug\net7.0\CourseProject.Common.dll
+C:\Code\Udemy_ASP.NET REST\CourseProject\src\CourseProject.Business\bin\Debug\net7.0\CourseProject.Common.pdb
+C:\Code\Udemy_ASP.NET REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.csproj.AssemblyReference.cache
+C:\Code\Udemy_ASP.NET REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Udemy_ASP.NET REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.AssemblyInfoInputs.cache
+C:\Code\Udemy_ASP.NET REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.AssemblyInfo.cs
+C:\Code\Udemy_ASP.NET REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.csproj.CoreCompileInputs.cache
+C:\Code\Udemy_ASP.NET REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CoursePr.A358A4D8.Up2Date
+C:\Code\Udemy_ASP.NET REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.dll
+C:\Code\Udemy_ASP.NET REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\refint\CourseProject.Business.dll
+C:\Code\Udemy_ASP.NET REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.pdb
+C:\Code\Udemy_ASP.NET REST\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\ref\CourseProject.Business.dll

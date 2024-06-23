@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\Udemy_ASP.NET REST\\CourseProject\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{367BA772-B061-4420-B77D-B54EFE5402CD}|CourseProject.Business\\CourseProject.Business.csproj|c:\\code\\udemy_asp.net rest\\courseproject\\src\\courseproject.business\\services\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367BA772-B061-4420-B77D-B54EFE5402CD}|CourseProject.Business\\CourseProject.Business.csproj|solutionrelative:courseproject.business\\services\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{516DED6D-6373-46EB-B896-6E4FB5301362}|CourseProject.API\\CourseProject.API.csproj|c:\\code\\udemy_asp.net rest\\courseproject\\src\\courseproject.api\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{516DED6D-6373-46EB-B896-6E4FB5301362}|CourseProject.API\\CourseProject.API.csproj|solutionrelative:courseproject.api\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367BA772-B061-4420-B77D-B54EFE5402CD}|CourseProject.Business\\CourseProject.Business.csproj|c:\\code\\udemy_asp.net rest\\courseproject\\src\\courseproject.business\\exceptions\\employeesnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367BA772-B061-4420-B77D-B54EFE5402CD}|CourseProject.Business\\CourseProject.Business.csproj|solutionrelative:courseproject.business\\exceptions\\employeesnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367BA772-B061-4420-B77D-B54EFE5402CD}|CourseProject.Business\\CourseProject.Business.csproj|c:\\code\\udemy_asp.net rest\\courseproject\\src\\courseproject.business\\diconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367BA772-B061-4420-B77D-B54EFE5402CD}|CourseProject.Business\\CourseProject.Business.csproj|solutionrelative:courseproject.business\\diconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367BA772-B061-4420-B77D-B54EFE5402CD}|CourseProject.Business\\CourseProject.Business.csproj|c:\\code\\udemy_asp.net rest\\courseproject\\src\\courseproject.business\\exceptions\\teamnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367BA772-B061-4420-B77D-B54EFE5402CD}|CourseProject.Business\\CourseProject.Business.csproj|solutionrelative:courseproject.business\\exceptions\\teamnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Code\\Udemy_ASP.NET REST\\CourseProject\\src\\CourseProject.API\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "CourseProject.API\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Code\\Udemy_ASP.NET REST\\CourseProject\\src\\CourseProject.API\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "CourseProject.API\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAiwHkAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T05:23:33.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DIConfiguration.cs",
+              "DocumentMoniker": "C:\\Code\\Udemy_ASP.NET REST\\CourseProject\\src\\CourseProject.Business\\DIConfiguration.cs",
+              "RelativeDocumentMoniker": "CourseProject.Business\\DIConfiguration.cs",
+              "ToolTip": "C:\\Code\\Udemy_ASP.NET REST\\CourseProject\\src\\CourseProject.Business\\DIConfiguration.cs",
+              "RelativeToolTip": "CourseProject.Business\\DIConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T05:23:33.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeamNotFoundException.cs",
+              "DocumentMoniker": "C:\\Code\\Udemy_ASP.NET REST\\CourseProject\\src\\CourseProject.Business\\Exceptions\\TeamNotFoundException.cs",
+              "RelativeDocumentMoniker": "CourseProject.Business\\Exceptions\\TeamNotFoundException.cs",
+              "ToolTip": "C:\\Code\\Udemy_ASP.NET REST\\CourseProject\\src\\CourseProject.Business\\Exceptions\\TeamNotFoundException.cs",
+              "RelativeToolTip": "CourseProject.Business\\Exceptions\\TeamNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T05:23:33.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeesNotFoundException.cs",
+              "DocumentMoniker": "C:\\Code\\Udemy_ASP.NET REST\\CourseProject\\src\\CourseProject.Business\\Exceptions\\EmployeesNotFoundException.cs",
+              "RelativeDocumentMoniker": "CourseProject.Business\\Exceptions\\EmployeesNotFoundException.cs",
+              "ToolTip": "C:\\Code\\Udemy_ASP.NET REST\\CourseProject\\src\\CourseProject.Business\\Exceptions\\EmployeesNotFoundException.cs",
+              "RelativeToolTip": "CourseProject.Business\\Exceptions\\EmployeesNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T05:23:33.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeamService.cs",
+              "DocumentMoniker": "C:\\Code\\Udemy_ASP.NET REST\\CourseProject\\src\\CourseProject.Business\\Services\\TeamService.cs",
+              "RelativeDocumentMoniker": "CourseProject.Business\\Services\\TeamService.cs",
+              "ToolTip": "C:\\Code\\Udemy_ASP.NET REST\\CourseProject\\src\\CourseProject.Business\\Services\\TeamService.cs",
+              "RelativeToolTip": "CourseProject.Business\\Services\\TeamService.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAswDsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T05:23:33.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
